@@ -10,5 +10,6 @@
             "src": "/(.*)",
             "dest": "api/hello.py"
         }
-    ]
+    ],
+    "buildCommand": "pip install flask"
 }
